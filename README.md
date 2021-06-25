@@ -1,6 +1,6 @@
 # Windows 11
 
-## Windows 11 the new Operating Sytem of Microsoft Corporation
+## Windows 11 the new Operating System of Microsoft Corporation
 
 <a href="https://metrixmedia.fr/windows/11/windows11.iso">4,53 GB (4 874 553 344 bytes)</a>
 
