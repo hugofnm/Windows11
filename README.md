@@ -8,5 +8,6 @@
 
 # Informations :
 
-Unzip with Bandizip
+Unzip with Bandizip : https://bandisoft.com/bandizip/
+
 Password : 'bruhdos11'
