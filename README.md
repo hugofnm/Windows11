@@ -30,3 +30,5 @@ Avec Microsoft Edge, ainsi qu’une multitude de widgets parmi lesquels vous pou
 <img src='https://c.s-microsoft.com/fr-fr/CMSImages/1399_Panel08_Picture_Content_new.jpg?version=9ee57fc1-e0bf-380e-2207-73f3b64fc259'>
 
 ### DMCA Takedown : dmca@metrixmedia.fr
+
+Microsoft, Windows, the Microsoft Logo, the Windows Logo are registred trademarks of the Microsoft group of companies.
