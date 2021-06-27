@@ -2,7 +2,8 @@
 
 ## Windows™ 11 the new Operating System of Microsoft Corporation
 
-<a href="https://metrixmedia.fr/windows11.iso">Download - 4,53 GB (4 874 553 344 bytes) - ⚠️ DEV Version w/ Bugs and Microsoft™ account termination</a>
+<a href="https://metrixmedia.fr/windows11.iso">Download from MetrixMedia servers - 4,53 GB (4 874 553 344 bytes)</a>
+<a href="https://github.com/hugofnm/Windows11/releases/tag/21996.1">Download from GitHub servers - 4,53 GB devided in 3 ".zip" parts (4 874 553 344 bytes)</a>
 
 <img src='https://c.s-microsoft.com/en-us/CMSImages/hero_animation_poster_4K_Sharpened.jpg?version=e252e57c-4949-6726-4a60-a50c0aeec2ce'>
 
