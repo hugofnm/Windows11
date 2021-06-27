@@ -1,6 +1,6 @@
-# Windows 11
+# Windows 11™
 
-## Windows™ 11 the new Operating System of Microsoft Corporation
+## Windows 11™ the new Operating System of Microsoft Corporation
 
 <a href="https://metrixmedia.fr/windows11.iso">Download from MetrixMedia servers - 4,53 GB (4 874 553 344 bytes)</a>
 
@@ -8,13 +8,13 @@
 
 <img src='https://c.s-microsoft.com/en-us/CMSImages/hero_animation_poster_4K_Sharpened.jpg?version=e252e57c-4949-6726-4a60-a50c0aeec2ce'>
 
-## Présentation de Windows™ 11
+## Présentation de Windows 11™
 Une nouvelle expérience Windows™, qui vous rapproche de tout ce que vous aimez.
 
 <img src='https://c.s-microsoft.com/fr-fr/CMSImages/1920_Panel03_Video_Introducing_new.jpg?version=b1067fd1-f287-adae-d0c8-fed7f26313fa'>
 
 ## Adoptez une nouvelle perspective
-Windows 11 offre un espace calme et créatif où vous pouvez vivre vos passions à travers une nouvelle expérience. Depuis la nouvelle version du menu Démarrer jusqu’aux nouvelles façons de vous connecter à vos contacts, actualités, jeux et contenus préférés, Windows™ 11 est le lieu idéal pour penser, s’exprimer et créer de manière naturelle.
+Windows 11™ offre un espace calme et créatif où vous pouvez vivre vos passions à travers une nouvelle expérience. Depuis la nouvelle version du menu Démarrer jusqu’aux nouvelles façons de vous connecter à vos contacts, actualités, jeux et contenus préférés, Windows 11™ est le lieu idéal pour penser, s’exprimer et créer de manière naturelle.
 
 ## Optimisez votre productivité
 Accédez facilement à toutes les applications dont vous avez besoin et effectuez plusieurs tâches en même temps grâce à des outils tels que l’Insertion, le Bureau, ou encore une nouvelle expérience de rattachement plus intuitive.
