@@ -2,7 +2,7 @@
 
 ## Windows 11™ the new Operating System of Microsoft Corporation
 
-<a href="https://github.com/hugofnm/Windows11/releases">Download from GitHub servers - 4,53 GB devided in 3 ".zip" parts (4 874 553 344 bytes)</a>
+<a href="https://github.com/hugofnm/Windows11/releases">Download from GitHub servers - 5,13 Go devided in 3 ".zip" parts (5 513 568 256 bytes)</a>
 
 <img src='https://c.s-microsoft.com/en-us/CMSImages/hero_animation_poster_4K_Sharpened.jpg?version=e252e57c-4949-6726-4a60-a50c0aeec2ce'>
 
